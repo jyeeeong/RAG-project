@@ -22,7 +22,7 @@ Our professor's name is yongjae yoo. (So our team name is "To Yoo"....😂)
 <br/>
 <br/>
 <br/>
-![image](https://github.com/kgty0707/Yooyongjae/assets/156056438/02f177c9-4c0c-4712-8e9a-b590aea48db5)
+
 
 <br/>
 When you first access the web, the UI looks like Figure 5. <br/>Using the toggle button (3) at the bottom right, you can choose between the BLOOM and GPT LLM models.
