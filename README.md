@@ -6,7 +6,6 @@ Our professor's name is yongjae yoo. (So our team name is "To Yoo"....😂)
 <br/>
 <br/>
 <br/>
-<img src="https://github.com/kgty0707/Yooyongjae/assets/156056438/fdbb3e1c-a144-40c4-9514-c40b25a4e521.png" width="700" height="400"/>
 <br/>
 #### This project has been conducted with the professor's permission! <br/>Thank you, professor!💕
 <br/>
